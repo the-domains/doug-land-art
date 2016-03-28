@@ -1,7 +1,7 @@
 name: Doug Land. Art
 favicon: null
-layout_spectrum: 0.29198055854067206
-typography_spectrum: 0.4372049695812166
+layout_spectrum: 0.75582
+typography_spectrum: 0.82565
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.703007847070694
-  lightness: 0.26309529040008783
-  saturation: 0.7429167437367141
-  rhythmicContrast: 0.6434497903101146
+    - '#fdfdfd'
+    - '#0f1525'
+    - '#a6a6a6'
+    - '#e7c385'
+    - '#946a19'
+  brandStrength: 1
+  lightness: 0.75
+  saturation: 1
+  rhythmicContrast: 1
 purpose: []
